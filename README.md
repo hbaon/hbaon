@@ -1,12 +1,16 @@
 # 👋 Hi there! I'm **Nguyen Hoang Bao**  
-📍 Hanoi, Vietnam | 💻 Aspiring Computer Scientist with a passion for **AI, Finance, and Technology**  
+📍 Hanoi, Vietnam 
+
+
+💻 Incoming Computer Science student at **University of Illinois Urbana-Champaign (UIUC)**  
+🔬 Interested in **AI systems, data-driven applications, and real-world technology deployment**
 
 ## 🌟 About Me  
-I'm a high school student at **Chu Van An High School for the Gifted**, with a deep interest in blending **Computer Science** with **Economics and Finance**. My goal is to solve real-world problems through innovative technology and data-driven solutions.  
+I'm a high school student at **Chu Van An High School for the Gifted**, with a deep interest in blending **Computer Science** with **Economics and Finance**. My goal is to solve real-world problems through innovative technology and data-driven solutions.
 
 - 🎓 **Expected Graduation**: June 2026  
 - 🏆 **Academic Highlights**:  
-  - **GPA**: 9.9/10.0 | **SAT**: Expected 1500+ | **AP Courses**: Calculus AB, Computer Science, Physics  
+  - **GPA**: 9.7/10.0 | **SAT**: 1590  
   - Multiple awards in Informatics Olympiads at regional and national levels  
 
 - 📬 Contact: [hbaon7@gmail.com](mailto:hbaon7@gmail.com)  
@@ -48,7 +52,7 @@ Here are some of my key projects that showcase my passion for technology and pro
 ## 🛠️ Skills  
 - **Programming**: Python, Java, C++  
 - **Web Development**: HTML, CSS, JavaScript  
-- **Languages**: English (IELTS 7.5+ target), Vietnamese (Fluent)  
+- **Languages**: English (IELTS 7.5), Vietnamese (Fluent)  
 
 ---
 
