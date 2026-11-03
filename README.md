@@ -1,17 +1,12 @@
 # 👋 Hi there! I'm **Nguyen Hoang Bao**  
-📍 Hanoi, Vietnam 
+📍 Illinois
 
 
-💻 Incoming Computer Science student at **University of Illinois Urbana-Champaign (UIUC)**  
+💻 Freshman Computer Science student at **University of Illinois Urbana-Champaign (UIUC)**  
 🔬 Interested in **AI systems, data-driven applications, and real-world technology deployment**
 
-## 🌟 About Me  
-I'm a high school student at **Chu Van An High School for the Gifted**, with a deep interest in blending **Computer Science** with **Economics and Finance**. My goal is to solve real-world problems through innovative technology and data-driven solutions.
 
-- 🎓 **Expected Graduation**: June 2026  
-- 🏆 **Academic Highlights**:  
-  - **GPA**: 9.7/10.0 | **SAT**: 1590  
-  - Multiple awards in Informatics Olympiads at regional and national levels  
+- 🎓 **Expected Graduation**: 2030
 
 - 📬 Contact: [hbaon7@gmail.com](mailto:hbaon7@gmail.com)  
 - 🌐 [LinkedIn](https://linkedin.com/in/hbaon) | [GitHub](https://github.com/hbaon)  
@@ -23,20 +18,7 @@ Here are some of my key projects that showcase my passion for technology and pro
 
 ### 🌱 **Eco Purify Project**  
 - **Role**: Software Team Member  
-- Developed a sustainable water filtration prototype for farmers, focusing on water reuse and tackling salinity issues in agriculture.  
-
-### 🌍 **STEMBridge Project**  
-- **Role**: Project Coordinator  
-- Organized STEM workshops for rural schools to promote STEM education.  
-- Raised funds and provided learning kits to underprivileged students.  
-
-### 🧶 **Nón Quai Thao Project**  
-- **Role**: Web Developer  
-- Built and maintained the official website for a cultural project aiming to preserve and promote *Quan họ Bắc Ninh*, a traditional Vietnamese folk music.  
-
-### 📈 **Personal Finance Tracker App**  
-- **Technologies**: Python, JavaScript  
-- Developed a mobile app with 1,000+ downloads to help students manage their daily finances effectively.  
+- Developed a sustainable water filtration prototype for farmers, focusing on water reuse and tackling salinity issues in agriculture. 
 
 ---
 
@@ -57,7 +39,6 @@ Here are some of my key projects that showcase my passion for technology and pro
 ---
 
 ## 📈 What I’m Working On  
-- Preparing for **International STEM Olympiad 2025** and **ASEAN Data Science Explorer 2025**  
 - Exploring **AI-driven solutions** for real-world problems in **Finance and Smart Cities**  
 
 ---
